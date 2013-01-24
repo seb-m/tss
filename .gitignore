@@ -1,0 +1,19 @@
+# General ignore rules
+
+*.kpf
+*.o
+*.pyc
+*.a
+*~
+\#*
+*.log
+*.tmp
+*.bak
+a.out
+*.out
+*.so
+.#*
+docstrings/
+__pycache__/
+build/
+.DS_Store
