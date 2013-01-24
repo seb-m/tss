@@ -30,7 +30,7 @@ classif = [
 setup(
     name='tss',
     version='0.1',
-    description=('Threshold Secret Sharing.'),
+    description=("Threshold Secret Sharing (Shamir's secret sharing scheme)."),
     author='Sebastien Martini',
     author_email='seb@dbzteam.org',
     license='MIT License',
